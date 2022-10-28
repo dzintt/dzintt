@@ -7,6 +7,7 @@ Backend Develeper
 * 🌍  I'm based in San Francisco
 * ✉️  You can contact me at [dz@dzaio.com](mailto:dz@dzaio.com)
 * 🚀  I'm currently working on [Freebie Frenzy](http://twitter.com/FreebieFrenzy)
+* 🧠  I'm learning Go
 
 <a href="https://www.twitter.com/DZ1111" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DZ1111?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
