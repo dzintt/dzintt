@@ -1,7 +1,7 @@
 Hi 👋 My name is DZ
 ===================
 
-Backend Develeper
+Backend Developer
 -----------------
 
 * 🌍  I'm based in San Francisco
