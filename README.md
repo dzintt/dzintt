@@ -66,9 +66,6 @@ Hi 👋 My name is DZ
   <a href="https://discord.com/users/dz1111" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Discord-dz1111-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>&nbsp;
-  <a href="https://www.github.com/dzintt" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-dzintt-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>&nbsp;
   <a href="https://www.twitter.com/DZ1111" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Twitter-DZ1111-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
