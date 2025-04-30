@@ -54,6 +54,9 @@ src="https://img.shields.io/twitter/follow/DZ1111?logo=twitter&style=for-the-bad
 ### Activity Graph
 <img src="https://raw.githubusercontent.com/dzintt/dzintt/output/snake.svg" alt="Snake animation" />
 
+### What I'm Listening To
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lwickq2zd44bqxkfak1632fk7&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ### How I'm Feeling
 <div align="left">
   <img height="320" src="https://media1.tenor.com/m/rQny9TWXi0IAAAAd/yellow-dragon-nailong.gif"  />
