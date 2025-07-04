@@ -45,19 +45,6 @@ Hi 👋 My name is Anson
 
 <hr>
 
-## 🔗 Connect With Me
-
-<div align="center">
-  <a href="https://discord.com/users/dz1111" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-dz1111-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://www.twitter.com/DZ1111" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-DZ1111-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</div>
-
-<hr>
-
 ## 📊 GitHub Stats
 
 <div align="center">
