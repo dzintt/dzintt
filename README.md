@@ -5,12 +5,6 @@ Hi 👋 My name is Anson
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.twitter.com/DZ1111" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/twitter/follow/DZ1111?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
-  </a>
-</p>
-
 </div>
 
 <hr>
