@@ -13,15 +13,6 @@ Hi 👋 My name is Anson
 
 </div>
 
-<div align="center">
-
-[![](https://img.shields.io/badge/📍-San_Francisco-0891b2?style=flat-square)]()
-[![](https://img.shields.io/badge/📧-dz@dzaio.com-0891b2?style=flat-square)](mailto:dz@dzaio.com)
-[![](https://img.shields.io/badge/🚀-Freebie_Frenzy-0891b2?style=flat-square)](http://twitter.com/FreebieFrenzy)
-[![](https://img.shields.io/badge/🧠-Learning_Go-0891b2?style=flat-square)]()
-
-</div>
-
 <hr>
 
 ## 💻 Tech Stack
