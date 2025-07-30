@@ -3,7 +3,7 @@
 Hi 👋 My name is Anson
 ===================
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=Fullstack+Developer;Software+Engineer" alt="Typing SVG" />
 
 </div>
 
